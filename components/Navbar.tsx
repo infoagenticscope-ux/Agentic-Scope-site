@@ -45,7 +45,7 @@ export default function Navbar({ onOpenModal }: NavbarProps) {
             <div className="relative w-12 h-12 rounded-full overflow-hidden border border-red-600/40 shadow-glow-sm transition-transform duration-300 group-hover:scale-105 group-hover:shadow-glow">
               <Image 
                 src="/logo.png" 
-                alt="Agentic Scope Logo" 
+                alt="Formation Scope Ltd Logo" 
                 fill 
                 className="object-cover"
                 priority
@@ -53,7 +53,7 @@ export default function Navbar({ onOpenModal }: NavbarProps) {
             </div>
             <div className="flex flex-col">
               <span className="font-extrabold text-lg sm:text-xl tracking-wider text-white flex items-center gap-1.5">
-                AGENTIC <span className="text-red-600">SCOPE</span>
+                FORMATION <span className="text-red-600">SCOPE LTD</span>
               </span>
               <span className="text-[10px] sm:text-[11px] text-gray-400 font-medium tracking-tight -mt-1 hidden xs:block">
                 Automate Your Business Smoothly

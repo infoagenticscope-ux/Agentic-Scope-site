@@ -2,7 +2,7 @@ export async function GET() {
   const robots = `User-agent: *
 Allow: /
 
-Sitemap: https://agenticscope.com/sitemap.xml
+Sitemap: https://formationscope.com/sitemap.xml
 `;
 
   return new Response(robots, {

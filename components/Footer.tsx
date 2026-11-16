@@ -18,14 +18,14 @@ export default function Footer() {
               <div className="relative w-12 h-12 rounded-full overflow-hidden border border-red-600/50 shadow-glow-sm">
                 <Image 
                   src="/logo.png" 
-                  alt="Agentic Scope Logo" 
+                  alt="Formation Scope Ltd Logo" 
                   fill 
                   className="object-cover" 
                 />
               </div>
               <div>
                 <span className="font-extrabold text-xl tracking-wider text-white">
-                  AGENTIC <span className="text-red-600">SCOPE</span>
+                  FORMATION <span className="text-red-600">SCOPE LTD</span>
                 </span>
                 <p className="text-xs text-gray-400 font-medium">
                   {siteConfig.tagline}
@@ -233,7 +233,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link href="/about" className="hover:text-white transition-colors">
-                  About Agentic Scope
+                  About Formation Scope Ltd
                 </Link>
               </li>
               <li>

@@ -213,7 +213,7 @@ export default function HomePage() {
                 Launch Your Business From Anywhere.
               </h2>
               <p className="text-sm text-gray-300 leading-relaxed">
-                Whether you are operating from Pakistan, India, the UAE, Bangladesh, Morocco, the United Kingdom, or the United States, Agentic Scope provides the complete statutory and digital infrastructure to own a legal UK Limited Company or US LLC, secure international banking rails, and accept global payments smoothly.
+                Whether you are operating from Pakistan, India, the UAE, Bangladesh, Morocco, the United Kingdom, or the United States, Formation Scope Ltd provides the complete statutory and digital infrastructure to own a legal UK Limited Company or US LLC, secure international banking rails, and accept global payments smoothly.
               </p>
               
               <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 pt-3">
@@ -338,7 +338,7 @@ export default function HomePage() {
           
           <div className="max-w-3xl space-y-3">
             <span className="text-xs font-bold text-red-500 uppercase tracking-widest flex items-center gap-1.5">
-              <Bot className="w-4 h-4" /> Agentic Scope Technology Lab
+              <Bot className="w-4 h-4" /> Formation Scope Ltd Technology Lab
             </span>
             <h2 className="text-3xl sm:text-5xl font-extrabold text-white">
               Build Smarter. Automate More. Grow Faster.
@@ -519,7 +519,7 @@ export default function HomePage() {
             <span>Process Architecture</span>
           </div>
           <h2 className="text-3xl sm:text-4xl font-extrabold text-white">
-            How Agentic Scope Works
+            How Formation Scope Ltd Works
           </h2>
           <p className="text-xs sm:text-sm text-gray-400">
             A frictionless, high-speed 5-stage workflow designed for international speed and precision.
@@ -570,7 +570,7 @@ export default function HomePage() {
 
 
       {/* ========================================================
-          WHY AGENTIC SCOPE
+          WHY FORMATION SCOPE LTD
           ======================================================== */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="p-8 sm:p-12 rounded-3xl bg-[#0C0C12] border border-red-950/50 space-y-8">
@@ -579,7 +579,7 @@ export default function HomePage() {
               Core Advantages
             </span>
             <h2 className="text-3xl font-extrabold text-white">
-              Why Global Entrepreneurs Rely on Agentic Scope
+              Why Global Entrepreneurs Rely on Formation Scope Ltd
             </h2>
           </div>
 
@@ -710,7 +710,7 @@ export default function HomePage() {
               <span className="text-red-500">Automate Your Business?</span>
             </h2>
             <p className="text-sm text-gray-300 leading-relaxed">
-              Join forward-thinking international entrepreneurs who have streamlined their global setup and operations with Agentic Scope.
+              Join forward-thinking international entrepreneurs who have streamlined their global setup and operations with Formation Scope Ltd.
             </p>
             
             <div className="flex flex-col sm:flex-row items-center justify-center gap-3 pt-4">

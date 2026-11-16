@@ -26,7 +26,7 @@ export default function UKCompanyChangesPage() {
           UK Company Changes & Filings
         </h1>
         <p className="text-base text-gray-300 max-w-2xl mx-auto">
-          Need to change your company name, replace a director, transfer shares, or update your registered office? Agentic Scope prepares and files all official Companies House forms smoothly.
+          Need to change your company name, replace a director, transfer shares, or update your registered office? Formation Scope Ltd prepares and files all official Companies House forms smoothly.
         </p>
         <div>
           <button

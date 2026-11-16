@@ -16,7 +16,7 @@ export default function AboutPage() {
       <section className="pt-12 pb-16 px-4 sm:px-6 lg:px-8 border-b border-red-950/30 bg-radial-hero text-center max-w-4xl mx-auto space-y-6">
         <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-red-600/15 border border-red-500/30 text-red-400 text-xs font-bold">
           <Sparkles className="w-3.5 h-3.5" />
-          <span>ABOUT AGENTIC SCOPE</span>
+          <span>ABOUT FORMATION SCOPE LTD</span>
         </div>
 
         <h1 className="text-4xl sm:text-6xl font-extrabold text-white">
@@ -81,7 +81,7 @@ export default function AboutPage() {
 
         {/* Direct CTA */}
         <div className="p-8 rounded-3xl bg-gradient-to-r from-red-950/60 to-[#0A0A0E] border border-red-700/50 text-center space-y-4">
-          <h3 className="text-xl font-bold text-white">Ready to partner with Agentic Scope?</h3>
+          <h3 className="text-xl font-bold text-white">Ready to partner with Formation Scope Ltd?</h3>
           <p className="text-xs text-gray-300 max-w-lg mx-auto">
             Contact our advisory team directly on WhatsApp or submit your onboarding application today.
           </p>

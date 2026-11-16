@@ -65,7 +65,7 @@ export default function ApplicationModal({
     e.preventDefault();
     
     // Construct prefilled WhatsApp message
-    let message = `*New Service Application - Agentic Scope*\n`;
+    let message = `*New Service Application - Formation Scope Ltd*\n`;
     message += `*Name:* ${formData.fullName}\n`;
     message += `*Email:* ${formData.email}\n`;
     message += `*WhatsApp:* ${formData.whatsapp}\n`;
@@ -155,7 +155,7 @@ export default function ApplicationModal({
             <div className="mb-6">
               <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-red-600/10 border border-red-500/20 text-red-400 text-xs font-semibold mb-2">
                 <Sparkles className="w-3.5 h-3.5" />
-                <span>Agentic Scope Onboarding</span>
+                <span>Formation Scope Ltd Onboarding</span>
               </div>
               <h2 className="text-2xl font-extrabold text-white">
                 Launch Your Global Business

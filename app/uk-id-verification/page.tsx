@@ -48,7 +48,7 @@ export default function UKIdVerificationPage() {
           </div>
 
           <div className="p-7 rounded-2xl bg-[#0D0D12] border border-red-950/40 space-y-3">
-            <h3 className="text-base font-bold text-white">How Agentic Scope Helps</h3>
+            <h3 className="text-base font-bold text-white">How Formation Scope Ltd Helps</h3>
             <p className="text-xs text-gray-400 leading-relaxed">
               ID verification is automatically included in all our UK LTD formation packages. We guide you through the authorized digital channel with zero friction and guaranteed compliance.
             </p>

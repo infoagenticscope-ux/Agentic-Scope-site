@@ -133,7 +133,7 @@ export default function BusinessBankingPage() {
           <AlertCircle className="w-5 h-5 text-red-500 flex-shrink-0 mt-0.5" />
           <p>
             <strong>Important Banking Disclaimer: </strong>
-            Agentic Scope does not provide banking or deposit services directly. We assist founders with entity structuring, application preparation, and documentation alignment. Opening and ongoing maintenance of business bank accounts is strictly subject to provider approval and independent compliance checks by each financial institution.
+            Formation Scope Ltd does not provide banking or deposit services directly. We assist founders with entity structuring, application preparation, and documentation alignment. Opening and ongoing maintenance of business bank accounts is strictly subject to provider approval and independent compliance checks by each financial institution.
           </p>
         </div>
       </section>

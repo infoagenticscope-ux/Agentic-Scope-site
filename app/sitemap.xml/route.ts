@@ -1,7 +1,7 @@
 import { blogPosts } from "@/data/blog";
 
 export async function GET() {
-  const baseUrl = "https://agenticscope.com";
+  const baseUrl = "https://formationscope.com";
 
   const staticRoutes = [
     "",

@@ -17,7 +17,7 @@ export default function ContactPage() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     setSubmitted(true);
-    const msg = `*Contact Inquiry - Agentic Scope*\n*Name:* ${formData.name}\n*Email:* ${formData.email}\n*Phone:* ${formData.phone}\n*Service:* ${formData.service}\n*Message:* ${formData.message}`;
+    const msg = `*Contact Inquiry - Formation Scope Ltd*\n*Name:* ${formData.name}\n*Email:* ${formData.email}\n*Phone:* ${formData.phone}\n*Service:* ${formData.service}\n*Message:* ${formData.message}`;
     const encoded = encodeURIComponent(msg);
     setTimeout(() => {
       window.open(`https://wa.me/923218420985?text=${encoded}`, "_blank");
@@ -32,7 +32,7 @@ export default function ContactPage() {
           <span>DIRECT SPECIALIST SUPPORT</span>
         </div>
         <h1 className="text-4xl sm:text-6xl font-extrabold text-white">
-          Contact Agentic Scope
+          Contact Formation Scope Ltd
         </h1>
         <p className="text-base text-gray-300 max-w-2xl mx-auto">
           Connect with our corporate formation advisors and AI systems engineers. We respond rapidly via official WhatsApp and secure email channels.

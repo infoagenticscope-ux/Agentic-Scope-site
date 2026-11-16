@@ -60,7 +60,7 @@ export default function EinNumberPage() {
               Included In All US LLC Packages
             </h3>
             <p className="text-xs text-gray-400">
-              When you form your US LLC with Agentic Scope, federal EIN registration is already included at no extra charge.
+              When you form your US LLC with Formation Scope Ltd, federal EIN registration is already included at no extra charge.
             </p>
           </div>
           <button

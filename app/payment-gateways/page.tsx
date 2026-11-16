@@ -97,7 +97,7 @@ export default function PaymentGatewaysPage() {
           <AlertCircle className="w-5 h-5 text-red-500 flex-shrink-0 mt-0.5" />
           <p>
             <strong>Payment Gateway Disclaimer: </strong>
-            Merchant account approvals, processing limits, and holdback reserves are determined solely by Stripe, PayPal, or Mollie underwriting algorithms and compliance reviews. Agentic Scope guarantees compliant business formation, documentation, and technical integration, but cannot guarantee unconditional merchant approval.
+            Merchant account approvals, processing limits, and holdback reserves are determined solely by Stripe, PayPal, or Mollie underwriting algorithms and compliance reviews. Formation Scope Ltd guarantees compliant business formation, documentation, and technical integration, but cannot guarantee unconditional merchant approval.
           </p>
         </div>
       </section>

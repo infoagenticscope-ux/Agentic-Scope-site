@@ -14,7 +14,7 @@ export default function InsightsPage() {
           <span>RESEARCH & EXECUTIVE ADVISORY</span>
         </div>
         <h1 className="text-4xl sm:text-6xl font-extrabold text-white">
-          Agentic Scope Insights
+          Formation Scope Ltd Insights
         </h1>
         <p className="text-base text-gray-300 max-w-2xl mx-auto">
           In-depth guides, regulatory analyses, and technical playbooks for non-resident business formation, international banking, and autonomous AI automation.

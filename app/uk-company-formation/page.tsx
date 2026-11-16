@@ -97,7 +97,7 @@ export default function UKCompanyFormationPage() {
               The Complete UK Corporate Setup
             </h3>
             <p className="text-xs sm:text-sm text-gray-400 leading-relaxed">
-              When you incorporate through Agentic Scope, you receive an authorized corporate entity ready for international business operations, merchant billing, and commercial contracts.
+              When you incorporate through Formation Scope Ltd, you receive an authorized corporate entity ready for international business operations, merchant billing, and commercial contracts.
             </p>
           </div>
 
@@ -184,7 +184,7 @@ export default function UKCompanyFormationPage() {
           <AlertCircle className="w-5 h-5 text-red-500 flex-shrink-0 mt-0.5" />
           <p>
             <strong>Compliance Disclaimer: </strong>
-            Agentic Scope is a registered formation agent and corporate service provider. We are not a law firm or financial institution. Banking and payment gateway accounts are subject to provider compliance checks. Requirements are subject to applicable laws and regulatory updates.
+            Formation Scope Ltd is a registered formation agent and corporate service provider. We are not a law firm or financial institution. Banking and payment gateway accounts are subject to provider compliance checks. Requirements are subject to applicable laws and regulatory updates.
           </p>
         </div>
       </section>

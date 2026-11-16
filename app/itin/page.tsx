@@ -51,7 +51,7 @@ export default function ItinPage() {
           <AlertCircle className="w-5 h-5 text-red-500 flex-shrink-0 mt-0.5" />
           <p>
             <strong>Regulatory Notice: </strong>
-            Approval of ITIN applications is solely determined by the Internal Revenue Service based on the applicant's eligibility, tax status, and supporting documentation. Agentic Scope does not guarantee IRS approval.
+            Approval of ITIN applications is solely determined by the Internal Revenue Service based on the applicant's eligibility, tax status, and supporting documentation. Formation Scope Ltd does not guarantee IRS approval.
           </p>
         </div>
       </section>

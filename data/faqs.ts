@@ -9,12 +9,12 @@ export const faqsData: FAQItem[] = [
   {
     category: "uk",
     question: "Can non-residents register a UK Limited Company without visiting the UK?",
-    answer: "Yes, 100%. Under UK law, any foreign national aged 16 or above can incorporate and own a UK Limited Company completely remotely. You do not need UK residency, citizenship, or a physical visa. Agentic Scope manages the entire filing directly with Companies House.",
+    answer: "Yes, 100%. Under UK law, any foreign national aged 16 or above can incorporate and own a UK Limited Company completely remotely. You do not need UK residency, citizenship, or a physical visa. Formation Scope Ltd manages the entire filing directly with Companies House.",
   },
   {
     category: "uk",
     question: "What is Companies House ID Verification and is it mandatory?",
-    answer: "Under the Economic Crime and Corporate Transparency Act, Companies House requires all directors and Persons with Significant Control (PSCs) to verify their identity. Agentic Scope includes authorized ID verification in all our formation packages using your international passport and secure digital biometric verification.",
+    answer: "Under the Economic Crime and Corporate Transparency Act, Companies House requires all directors and Persons with Significant Control (PSCs) to verify their identity. Formation Scope Ltd includes authorized ID verification in all our formation packages using your international passport and secure digital biometric verification.",
   },
   {
     category: "uk",

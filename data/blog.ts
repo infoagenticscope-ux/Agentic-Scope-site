@@ -19,7 +19,7 @@ export const blogPosts: BlogPost[] = [
     content: [
       "The United Kingdom continues to be one of the most respected and commercially advantageous jurisdictions for international founders, digital agencies, and global e-commerce sellers.",
       "Under UK corporate law, non-resident individuals of any nationality can 100% legally incorporate and own a UK Limited Company (LTD) without stepping foot in the United Kingdom or holding a UK visa.",
-      "Key Changes Under the 2026 Economic Crime Act: Companies House now mandates identity verification for all appointed directors and Persons with Significant Control (PSCs). Agentic Scope conducts this verification seamlessly via biometric passport verification, ensuring your incorporation is fully compliant with statutory rules.",
+      "Key Changes Under the 2026 Economic Crime Act: Companies House now mandates identity verification for all appointed directors and Persons with Significant Control (PSCs). Formation Scope Ltd conducts this verification seamlessly via biometric passport verification, ensuring your incorporation is fully compliant with statutory rules.",
       "Essential Corporate Elements: Every UK LTD requires an official Registered Office Address located within England, Wales, or Scotland, a Memorandum & Articles of Association, and at least one individual director aged 16 or above.",
       "Tax Registration and UTR: Following incorporation, HMRC automatically issues a 10-digit Unique Taxpayer Reference (UTR) for Corporation Tax. Corporation Tax in the UK is calculated purely on taxable profits, with streamlined online filing requirements.",
       "Operating Globally: Once incorporated, international founders can connect their UK LTD to international multi-currency business accounts such as Wise Business, Tide, or Airwallex, unlocking instant global Stripe and PayPal merchant payment processing.",
@@ -36,7 +36,7 @@ export const blogPosts: BlogPost[] = [
       "Choosing the right state for your US Limited Liability Company is a fundamental strategic decision for international entrepreneurs seeking access to the US dollar economy and US payment gateways.",
       "Wyoming: The Premier Choice for Online Businesses and E-commerce: Wyoming created the LLC structure in 1977 and maintains the most business-friendly regulatory framework in the US. With zero state corporate income tax, minimal annual report fees ($62), and world-class member privacy where owner names are not placed on public databases, Wyoming is the gold standard for bootstrapped startups, freelancers, and Amazon sellers.",
       "Delaware: The Venture Capital Standard: Delaware is home to more than 60% of Fortune 500 companies and boasts the Court of Chancery, a specialized judicial body with deep corporate legal precedent. However, Delaware imposes a $300 minimum annual franchise tax and is best suited for startups planning to convert to a C-Corporation and raise US venture capital.",
-      "EIN Registration Without SSN: Non-US residents can legally obtain an IRS Employer Identification Number (EIN) by filing IRS Form SS-4. Agentic Scope manages this federal submission directly with the IRS to deliver your official confirmation notice.",
+      "EIN Registration Without SSN: Non-US residents can legally obtain an IRS Employer Identification Number (EIN) by filing IRS Form SS-4. Formation Scope Ltd manages this federal submission directly with the IRS to deliver your official confirmation notice.",
       "FinCEN BOI Compliance: All new US entities must file an electronic Beneficial Ownership Information report with FinCEN. Maintaining active compliance guarantees good standing with state registries and payment processors.",
     ],
   },
@@ -63,9 +63,9 @@ export const blogPosts: BlogPost[] = [
     readTime: "6 min read",
     content: [
       "The business landscape in 2026 is no longer about managing manual spreadsheets or hiring large tiers of customer service representatives to answer repetitive queries. Modern growth belongs to autonomous systems.",
-      "What Separates an AI Agent from a Basic Chatbot: Basic chatbots rely on rigid keyword matching and decision trees. In contrast, Agentic Scope AI agents utilize reasoning engines and function calling to read live inventories, check client schedules, trigger API webhooks, write records to your CRM, and autonomously resolve complex multi-step inquiries.",
+      "What Separates an AI Agent from a Basic Chatbot: Basic chatbots rely on rigid keyword matching and decision trees. In contrast, Formation Scope Ltd AI agents utilize reasoning engines and function calling to read live inventories, check client schedules, trigger API webhooks, write records to your CRM, and autonomously resolve complex multi-step inquiries.",
       "WhatsApp as the Ultimate High-Conversion Channel: Over 2 billion people use WhatsApp daily. Deploying an AI agent on the WhatsApp Cloud API allows your business to reply within 2 seconds to prospective buyers, qualify budget and timeline parameters, book consultations, and close sales around the clock.",
-      "Smooth Operations: By connecting your company formation, corporate banking, and AI automated infrastructure under Agentic Scope, your enterprise operates globally with minimal overhead and maximum scalability.",
+      "Smooth Operations: By connecting your company formation, corporate banking, and AI automated infrastructure under Formation Scope Ltd, your enterprise operates globally with minimal overhead and maximum scalability.",
     ],
   },
   {
@@ -79,7 +79,7 @@ export const blogPosts: BlogPost[] = [
       "A common misconception among international founders is that having a 'pass-through' single-member US LLC means there are zero reporting requirements with the Internal Revenue Service (IRS). This is dangerously incorrect.",
       "The Reality of IRS Form 5472: Even if your LLC has zero US-sourced income or zero US tax liability, foreign-owned single-member LLCs are classified as disregarded entities for tax purposes and are legally mandated to file IRS Form 5472 alongside a pro-forma Form 1120 annually.",
       "What Gets Reported: The IRS requires disclosure of reportable transactions between the LLC and its foreign owner, including capital contributions, loan repayments, distributions, and formation expenses.",
-      "Penalties for Non-Filing: The IRS assesses an automatic penalty of $25,000 for failure to file Form 5472 on time or for filing an incomplete return. Agentic Scope's dedicated USA Tax Filing team prepares and files these returns accurately so your company remains in spotless standing.",
+      "Penalties for Non-Filing: The IRS assesses an automatic penalty of $25,000 for failure to file Form 5472 on time or for filing an incomplete return. Formation Scope Ltd's dedicated USA Tax Filing team prepares and files these returns accurately so your company remains in spotless standing.",
     ],
   },
 ];

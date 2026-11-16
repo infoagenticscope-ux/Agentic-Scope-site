@@ -65,7 +65,7 @@ export default function StripePage() {
           <AlertCircle className="w-5 h-5 text-red-500 flex-shrink-0 mt-0.5" />
           <p>
             <strong>Underwriting Disclaimer: </strong>
-            Stripe operates as an independent licensed financial infrastructure provider. Account activation and risk reviews are determined by Stripe. Agentic Scope does not guarantee approval.
+            Stripe operates as an independent licensed financial infrastructure provider. Account activation and risk reviews are determined by Stripe. Formation Scope Ltd does not guarantee approval.
           </p>
         </div>
       </section>
